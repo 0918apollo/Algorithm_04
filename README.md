@@ -33,6 +33,7 @@
 ![3-2](https://user-images.githubusercontent.com/107075820/172702739-c9278907-a3af-43ee-94a5-980b677735ab.png)
 #### 3. Test Accuracy
 ![3-3](https://user-images.githubusercontent.com/107075820/172702750-3778d780-6a90-4e56-970a-c3dcb2040565.png)
+
 #### 4. Images and corresponding probability that predicted Right 
 ![3-4](https://user-images.githubusercontent.com/107075820/172702774-9d752687-4041-443e-86ae-b9f266e332bf.png)
 #### 5. Images and corresponding probability that predicted Wrong
